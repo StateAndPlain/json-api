@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: JSON API (woodwardjd mods)
-Plugin URI: https://github.com/woodwardjd/json-api
+Plugin URI: https://github.com/StateAndPlain/json-api
 Description: A RESTful API for WordPress (woodwardjd mods)
 Version: 1.1.2-woodwardjd
 Author: Dan Phiffer (woodwardjd mods)
